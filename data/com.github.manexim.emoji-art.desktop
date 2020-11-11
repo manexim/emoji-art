@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Emoji Art
+GenericName=Emoji Art
+Comment=An example program for the Emoji Art (Model–View–Controller) pattern
+Exec=com.github.manexim.emoji-art
+Icon=com.github.manexim.emoji-art
+Categories=GNOME;GTK;
+X-GNOME-UsesNotifications=false
